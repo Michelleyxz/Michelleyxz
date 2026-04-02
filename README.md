@@ -1,7 +1,7 @@
 
 <div align="center"> 
 
-# ✨ Olá, eu sou a Michelle Maria! 👋
+# ✨ Olá, eu sou Michelle Maria! 👋
 
 ### 🚀 Desenvolvedora em formação | Backend · QA · Dados
 
